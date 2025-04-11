@@ -106,10 +106,10 @@ def get_metavalues(m, contact_md):
         return (str1.join(s))
     
     #set varibles to defaults 
-    records = "no metadata"
-    title = "no metadata"
-    status = "no metadata"
-    metadataStatus = "no metadata"
+    records = "noMetadata"
+    title = "noMetadata"
+    status = "noMetadata"
+    metadataStatus = "noMetadata"
     startDate = 1900
     endDate = 1900
     DOI = "none"
